@@ -1,0 +1,28 @@
+- Punto 1
+objeto.mensaje(parametro?) : resultado?
+
+ataque.monstruoMasPeligroso() : monstruo
+
+idea de clase sistema (o parecido) //anti pattern - god object (diseño de sistemas)
+
+- Punto 2
+
+zona.nightmareTeam() : Set<Monstruo>
+
+- Punto 3
+
+zona.monstruosRapidos() : Set<Monstruo>
+
+- Punto 4
+
+ataque.fueEnSerio() : Boolean
+
+- Punto 5
+
+zona.fueDestruida() : Boolean
+
+- Punto 6
+
+mounstro.esPatetico() : Boolean
+
+- Punto 7
